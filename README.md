@@ -1,6 +1,6 @@
 # Actividad 3 (Individual) - Programación Orientada a Objetos
 
-### Integrantes:
+### Presentado por:
 |Nombre completo                       |Correo                  |Git user            |
 |--------------------------------------|------------------------|--------------------|
 |Maria Fernanda Orjuela                |marorjuela@unal.edu.co  | marorjuela         |
